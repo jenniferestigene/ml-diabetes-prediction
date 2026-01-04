@@ -1,7 +1,9 @@
+![Python](https://img.shields.io/badge/python-3.12-blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
 # Diabetes Prediction Using Machine Learning
 
 **Technologies:** Python • scikit-learn • pandas • matplotlib • seaborn
-
 ---
 
 ## Table of Contents
@@ -54,6 +56,7 @@ The final tuned model catches 39 out of 54 diabetic cases in the test set (72% r
 ---
 
 ## Insights Deep-Dive
+**[View Full Analysis Notebook](notebook/ML_Diabetes_Prediction.ipynb)**
 
 ### Data Quality and Preprocessing
 
